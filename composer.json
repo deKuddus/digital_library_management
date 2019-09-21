@@ -1,0 +1,11 @@
+{
+	"name": "DLMS",
+    "description": "Digital Libarary Management System",
+    "keywords": ["library","online library","book self"],
+    "type": "project",
+	"autoload":{
+		"classmap":[
+			"app/model"
+		]
+	}
+}
